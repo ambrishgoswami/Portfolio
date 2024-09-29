@@ -4,12 +4,12 @@
   "version": "0.1.0",
   "private": true,
   
-    "scripts": {
-      "dev": "cross-env NODE_ENV=development next dev",
-      "build": "cross-env NODE_ENV=production next build",
-      "start": "cross-env NODE_ENV=production next start"
-    }
-  
+   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
   ,
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
