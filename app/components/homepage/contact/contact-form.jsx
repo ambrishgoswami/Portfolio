@@ -30,11 +30,6 @@ function ContactForm() {
     if (!captcha) {
       toast.error('Please complete the captcha!');
 
-
-
-
-
-
       try {
         const res = await axios.post(`${process.env.NEXT_PUBLIC_APP_URL}/api/google`, {
           token: captcha
@@ -71,8 +66,17 @@ function ContactForm() {
     const templateID = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID;
     const options = { publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY };
 
+
+    const emailParams = {
+      from_name: input.name,  
+      from_email: input.email,  
+      message: input.message,  
+    };
+
+
+
     try {
-      const res = await emailjs.send(serviceID, templateID, input, options);
+      const res = await emailjs.send(serviceID, templateID,emailParams, options);
 
       if (res.status === 200) {
         toast.success('Message sent successfully!');
