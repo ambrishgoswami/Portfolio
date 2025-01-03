@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+91 8052834055',
   address: 'Lucknow Uttar Pradesh India -206017 ',
   github: 'https://github.com/ambrishgoswami',
-  facebook: 'https://www.instagram.com/code_with_peter/',
+  facebook: 'https://www.instagram.com/divine.ambrish/',
   linkedIn: 'https://www.linkedin.com/in/goswamiambrish/',
   twitter: 'https://x.com/AmbrishGos76042',
   stackOverflow: 'https://stackoverflow.com/users/23972501/ambrish-goswami',
