@@ -24,7 +24,7 @@ function AboutSection() {
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
-            src='https://instagram.flko9-2.fna.fbcdn.net/v/t51.29350-15/457244866_877965424225616_3508529166278337254_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTcweDIwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.flko9-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=dECnCeuh91IQ7kNvgFlZ_5o&_nc_gid=4cdb017abd4a4e79a42af94e5d029d1c&edm=ADDLYBMBAAAA&ccb=7-5&ig_cache_key=MzQ0Mzc0NzEzMTE4ODA5MzkwOA%3D%3D.3-ccb7-5&oh=00_AYBNZFJpLpsVzVl9bZmG4BncUycvynd4yOHOQ4_4IBEIfg&oe=677DAA87&_nc_sid=56bdfd'
+            src='https://instagram.flko9-1.fna.fbcdn.net/v/t51.2885-15/468764500_17950004972896008_1984283006929820910_n.jpg?se=-1&stp=dst-jpegr_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEzNjUuaGRyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.flko9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=VQgEY8Hpm6YQ7kNvgE3Slsy&_nc_gid=a810b53b241d4e95be7123824e7f1740&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzUxMjE4MTkxMjYxMjM1NjIwMA%3D%3D.3-ccb7-5&oh=00_AYB1XPwrL-NLWHynfbORvU_zYT8JQ7tBa4iCoVnV0IGRig&oe=677EB774&_nc_sid=7a9f4b'
             width={280}
             height={280}
             alt="Ambrish Goswami"
