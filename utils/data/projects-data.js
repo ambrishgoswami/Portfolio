@@ -6,8 +6,8 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Assistant App',
-        description: "Me and my team built an AI-powered Assistant web application.The application uses the Web Speech API for speech recognition, allowing users to give voice commands. Users can interact with Jarvis by asking questions or giving instructions, such as 'What is the time?', 'What's the weather?', or 'Open YouTube'",
+        name: 'Umatourism Web(offer.umatourism.in)',
+        description: "I developed Umatourism, a web application designed to enhance travel experiences by providing a comprehensive platform for exploring tourist destinations, planning trips, and discovering local attractions. The platform offers users a seamless way to access travel information, book services, and engage with a community of travelers.",
         tools: ['Javacsript', 'HTML5', 'API','CSS3'],
         role: 'Frontend developer',
         code: '',
@@ -36,9 +36,9 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Weather app',
-        description: "The Weather App is a simple and user-friendly web application that provides real-time weather information for any city or location. Built using HTML5, CSS3, and JavaScript, the app fetches weather data from a third-party weather API (such as OpenWeatherMap or WeatherAPI) and displays it in an intuitive and responsive interface. The app allows users to search for a city and instantly retrieve information like temperature, humidity, wind speed, and a brief weather description.",
-        tools: ['NodeJS', 'Material UI', 'Javascript', 'CSS3', "HTML5","API"],
+        name: 'LinkedIn Clone',
+        description: "I developed a professional networking platform inspired by LinkedIn, designed to facilitate career growth, job searches, and professional connections. The application allows users to create detailed profiles, connect with others, share posts, and access job opportunities. It integrates real-time messaging, analytics, and group discussions to build an engaging and collaborative professional environment.",
+        tools: ['NodeJS', 'Material UI', 'Javascript', 'CSS3', "HTML5","API","Google Api"],
         code: '',
         demo: '',
         image: ayla,
