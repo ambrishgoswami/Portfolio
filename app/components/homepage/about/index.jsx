@@ -24,7 +24,7 @@ function AboutSection() {
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
-            src='https://instagram.flko9-1.fna.fbcdn.net/v/t51.2885-15/468764500_17950004972896008_1984283006929820910_n.jpg?se=-1&stp=dst-jpegr_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEzNjUuaGRyLmY3NTc2MS5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.flko9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=VQgEY8Hpm6YQ7kNvgE3Slsy&_nc_gid=a810b53b241d4e95be7123824e7f1740&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzUxMjE4MTkxMjYxMjM1NjIwMA%3D%3D.3-ccb7-5&oh=00_AYB1XPwrL-NLWHynfbORvU_zYT8JQ7tBa4iCoVnV0IGRig&oe=677EB774&_nc_sid=7a9f4b'
+            src={personalData.profile}
             width={280}
             height={280}
             alt="Ambrish Goswami"
