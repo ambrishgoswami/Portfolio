@@ -4,6 +4,7 @@ module.exports = {
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
   },
+  output: 'export',
   images: {
      unoptimized: true, 
     domains: ['res.cloudinary.com', 'media.dev.to','media2.dev.to', ]
